@@ -67,7 +67,7 @@
   <h3 align="center">
   <p align="center">
   <a href="https://github.com/absarquazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="absarquazi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/absarquazi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/absarquazi8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/absarquazi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/absarquazi8" height="30" width="40" /></a>
 <a href="https://instagram.com/absar_quazi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absar_quazi10" height="30" width="40" /></a>
 <a href="https://twitter.com/@AbarQuazi93547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AbarQuazi93547" height="30" width="40" /></a>
 </p>
