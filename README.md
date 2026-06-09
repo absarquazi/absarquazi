@@ -10,7 +10,7 @@
 
 ## Introduction
 - Hi, I'm Absar Quazi.
-- I completed my 12th grade from Maulana Azad College, Aurangabad, and scored 80% in my 10th grade from Model High School, Jubilee Park.
+- I completed my 12th from Maulana Azad College, Aurangabad, and scored 80% in my 10th from Model High School, Jubilee Park.
 - I am planning to pursue a Bachelor of Computer Applications (BCA) and build a strong foundation in the field of technology.
 - I am passionate about technology and continuously exploring new areas to learn and grow. My primary interests include Cloud Computing, Cloud Security, and Cybersecurity. I enjoy learning how modern systems are built and secured, and I am always looking for opportunities to expand my technical knowledge and practical skills.
 
