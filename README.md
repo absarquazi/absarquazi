@@ -48,8 +48,7 @@
 <p align="center">
   <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,azure,gcp,aws,kubernetes" />
-
+<img src="https://skillicons.dev/icons?i=docker,azure,aws,gcp,kubernetes" />
 </div>
 <div align="center">
 <h3 aligh="center">Tools</h3>
