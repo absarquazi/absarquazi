@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/absarquazi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/absar_quazi10" target="_blank">
+  <a href="https://instagram.com/absarquazi0" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/AbarQuazi93547" target="_blank">
